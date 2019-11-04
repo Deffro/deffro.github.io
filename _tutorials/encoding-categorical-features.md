@@ -1,9 +1,9 @@
 ---
 title: "Encoding Categorical Features"
-tags: [encoding, categorical, features, python, pandas, sklearn, category_encoders, ordinal, labelencoder, factorize, map, nominal, one-hot, get_dummies, binary, pre-process]
+tags: [pre-process, encoding, features, pandas, sklearn]
 header:
-  image: "/images/tutorials/donuts.jpg"
-excerpt: "Encoding, Pre-processing"
+  image: "/images/tutorials/pandas.jpg"
+excerpt: "Pandas, Pre-processing"
 mathjax: "true"
 categories:
   - Data Processing
