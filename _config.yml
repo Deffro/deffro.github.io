@@ -180,10 +180,10 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-  recipes:
+  publications:
     output: true
     permalink: /:collection/:path/
-  pets:
+  tutorials:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -223,19 +223,19 @@ defaults:
       comments: false
       sidebar:
         nav: "docs"
-  # _recipes
+  # _publications
   - scope:
       path: ""
-      type: recipes
+      type: publications
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _pets
+  # _tutorials
   - scope:
       path: ""
-      type: pets
+      type: tutorials
     values:
       layout: single
       author_profile: true
