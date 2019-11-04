@@ -104,7 +104,7 @@
 
   @include breakpoint($small) {
     float: left;
-    width: 300px;
+    width: span(5 of 10);
 
     &:nth-child(2n + 1) {
       clear: both;
@@ -171,6 +171,7 @@
     }
 
     @include breakpoint($medium) {
+      width: 80%;
       max-height: 300px;
     }
   }
