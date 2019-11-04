@@ -5,6 +5,8 @@ header:
   image: "/images/tutorials/donuts.jpg"
 excerpt: "Encoding, Pre-processing"
 mathjax: "true"
+categories:
+  - Data Processing
 ---
 
 ## Encoding Categorical Features
