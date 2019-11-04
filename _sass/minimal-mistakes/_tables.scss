@@ -8,6 +8,9 @@ table {
   font-family: $global-font-family;
   font-size: $type-size-6;
   border-collapse: collapse;
+  display: block;
+  overflow: auto;
+  line-height: 16px;
 
   & + table {
     margin-top: 1em;
@@ -29,6 +32,11 @@ td {
   padding: 0.5em;
   border-bottom: 1px solid mix(#000, $border-color, 25%);
 }
+
+tr:hover {
+ background: #91a0b8;
+}
+
 
 tr,
 td,
