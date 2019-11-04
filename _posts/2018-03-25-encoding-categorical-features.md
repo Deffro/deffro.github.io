@@ -5,7 +5,7 @@ tags: [encoding, categorical, features, python, pandas, sklearn, category_encode
 header:
   image: "/images/tutorials/donuts.jpg"
   teaser: "/images/teasers/donuts.jpg"  
-featured_img: /images/teasers/donuts.jpg  
+featured-image: donuts.jpg  
 excerpt: "Encoding, Pre-processing"
 mathjax: "true"
 categories:
