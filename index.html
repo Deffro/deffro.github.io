@@ -4,3 +4,7 @@ author_profile: true
 header:
   image: "/images/waterfront.jpg"
 ---
+
+{% for post in site.posts %}
+  <img src="{% post.feature_img %}" />
+{% endfor %}
