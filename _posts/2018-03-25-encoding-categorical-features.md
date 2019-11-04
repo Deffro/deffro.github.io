@@ -4,6 +4,7 @@ date: 2018-01-28
 tags: [encoding, categorical, features, python, pandas, sklearn, category_encoders, ordinal, labelencoder, factorize, map, nominal, one-hot, get_dummies, binary, pre-process]
 header:
   image: "/images/tutorials/donuts.jpg"
+  teaser: "/images/teasers/donuts.jpg"  
 excerpt: "Encoding, Pre-processing"
 mathjax: "true"
 categories:

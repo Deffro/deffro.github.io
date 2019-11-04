@@ -3,7 +3,8 @@ title: "Pandas Tutorial"
 date: 2018-01-28
 tags: [pre-process, pandas]
 header:
-  image: "/images/tutorials/donuts.jpg"
+  image: "/images/tutorials/pandas.jpg"
+  teaser: "/images/teasers/pandas.jpg"  
 excerpt: "Encoding, Pre-processing"
 mathjax: "true"
 categories:

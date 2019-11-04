@@ -2,7 +2,8 @@
 title: "Pandas Tutorial"
 tags: [pre-process, pandas]
 header:
-  image: "/images/tutorials/donuts.jpg"
+  image: "/images/tutorials/pandas.jpg"
+  image: "/images/teasers/pandas.jpg"  
 excerpt: "Encoding, Pre-processing"
 mathjax: "true"
 categories:
