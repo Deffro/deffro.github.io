@@ -3,7 +3,7 @@ title: "Encoding Categorical Features"
 tags: [pre-process, encoding, features, pandas, sklearn]
 header:
   image: "/images/tutorials/donuts.jpg"
-  teaser: "/images/teasers/donuts.jpg"
+  teaser: "/images/teasers/halloween.jpg"
 excerpt: "Pandas, Pre-processing"
 mathjax: "true"
 categories:
