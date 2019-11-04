@@ -11,9 +11,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name"
+title                    : "Dimitris Effrosynidis"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Dimitris Effrosynidis"
 description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -86,11 +86,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Dimitris Effrosynidis"
+  avatar           : "/images/profile-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
-  location         : "Your Location"
-  email            :
+  location         : "Greece"
+  email            : dimitris.effrosynidis@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -99,13 +99,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Your Github"
+  github           : Deffro
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "dataoptimal" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "dimitrios-effrosynidis" 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
