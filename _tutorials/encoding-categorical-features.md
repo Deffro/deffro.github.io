@@ -1,9 +1,6 @@
 ---
 title: "Encoding Categorical Features"
-date: 2018-03-28
 tags: [encoding, categorical, features, python, pandas, sklearn, category_encoders, ordinal, labelencoder, factorize, map, nominal, one-hot, get_dummies, binary, pre-process]
-categories: 
-    - "tutorials"
 header:
   image: "/images/tutorials/donuts.jpg"
 excerpt: "Encoding, Pre-processing"
