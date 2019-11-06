@@ -2,8 +2,8 @@
 title: "6 Text Preprocessing Techniques in Python for Twitter Sentiment Analysis."
 excerpt: "These techniques were used in two scientific papers which I wrote."
 header:
-  image: "/assets/images/preprocessing.png"
-  teaser: "assets/teasers/preprocessing.png"
+  image: "images/projects/preprocessing.png"
+  teaser: "images/teasers/preprocessing.png"
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
