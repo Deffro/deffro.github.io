@@ -15,4 +15,4 @@ I am experienced with Python and specialize in Data Cleaning, Analysis, Visualiz
 
 If you are interested you can contact me on [LinkedIn](https://www.linkedin.com/in/dimitrios-effrosynidis/).
 
-<img src="images/presenting.jpg">
+<img src="https://deffro.github.io/images/presenting.jpg">
