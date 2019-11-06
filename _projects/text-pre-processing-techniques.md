@@ -4,6 +4,13 @@ excerpt: "These techniques were used in two scientific papers which I wrote."
 header:
   image: "images/projects/preprocessing.png"
   teaser: "images/teasers/preprocessing.png"
+sidebar:
+  - title: "Role"
+    image: http://placehold.it/350x250
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
 # Text Pre-processing Techniques
