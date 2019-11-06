@@ -88,9 +88,9 @@ analytics:
 author:
   name             : "Dimitris Effrosynidis"
   avatar           : "/images/profile-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "Greece"
-  email            : dimitris.effrosynidis@gmail.com
+  bio              : #"Data Science Portfolio"
+  location         : #"Greece"
+  email            : #dimitris.effrosynidis@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -99,13 +99,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : Deffro
+  github           : #Deffro
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "dimitrios-effrosynidis" 
+  linkedin         : #"dimitrios-effrosynidis" 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
