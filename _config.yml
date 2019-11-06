@@ -79,9 +79,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google"
+  provider               : "google-gtag"
   google:
-    tracking_id          :UA-71922867-4
+    tracking_id          : "UA-71922867-4"
+    anonymize_ip    : false
 
 
 # Site Author
