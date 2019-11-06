@@ -7,13 +7,13 @@ classes: wide
 
 <h3>2019</h3>
 
-<strong>Seagrass and Hydrographic data for the Mediterranean Sea</strong><br>
+<strong>Seagrass and Hydrographic data for the Mediterranean Sea.</strong><br>
 <strong>Dimitrios Effrosynidis</strong>, Avi Arampatzis, and Georgios Sylaios. *Data in brief*, Volume 25, August 2019.
 © Elsevier. | 2018 Impact Factor: 0.93 
 
 <h3>2018</h3>
 
-<strong>Seagrass Detection in the Mediterranean: A Supervised Learning Approach</strong><br>
+<strong>Seagrass Detection in the Mediterranean: A Supervised Learning Approach.</strong><br>
 **Dimitrios Effrosynidis**, Avi Arampatzis, and Georgios Sylaios. *Ecological informatics*, Volume 48, pages 158-170, November 2018.
 © Elsevier. | 2017 Impact Factor: 1.820; 5-Year Impact Factor: 2.122 **2** Citations.
 
