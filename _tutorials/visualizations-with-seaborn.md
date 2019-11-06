@@ -2,8 +2,8 @@
 title: "Visualizations with Seaborn"
 tags: [visualization, EDA, seaborn]
 header:
-  image: "/images/tutorials/seaborn.jpg"
-  teaser: "/images/teasers/seaborn.jpg"  
+  image: "/images/tutorials/seaborn.png"
+  teaser: "/images/teasers/seaborn.png"  
 excerpt: "Code examples for histogram, kde, box, count, pie, scatter, join, reg, hex, line bar, violin, boxen, strip, correlation plots."
 mathjax: "true"
 categories:
