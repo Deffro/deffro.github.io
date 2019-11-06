@@ -5,11 +5,7 @@ tags: [pre-process, pandas]
 header:
   image: "/images/tutorials/pandas.jpg"
   teaser: "/images/teasers/pandas.jpg"  
-excerpt: "Are you starting with Data Science? Pandas is the first thing you will need. Learn how to create, add, remove and rename columns.
-
-Read, select and filter data.
-
-Retrieve statistics for data."
+excerpt: "Are you starting with Data Science? Pandas is the first thing you will need. Learn how to create, add, remove, rename, read, select, filter, sort, group, manipulate data."
 mathjax: "true"
 categories:
   - Data Processing

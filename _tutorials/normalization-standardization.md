@@ -4,7 +4,7 @@ tags: [pre-process, normalization, features, pandas]
 header:
   image: "/images/tutorials/birds.jpg"
   teaser: "/images/teasers/birds.jpg"
-excerpt: "Normalization, Pre-processing"
+excerpt: "Why to use normalization and standardization? Which are their differences? When to use them and when to avoid?"
 mathjax: "true"
 categories:
   - Data Processing
