@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: archive
+layout: posts
 permalink: /publications/
 collection: publications
 ---
