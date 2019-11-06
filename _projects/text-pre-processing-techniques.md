@@ -42,6 +42,17 @@ for row in text[:10]:
     print(row)
 ```
 
+How did Quebec nationalists see their province as a nation in the 1960s?
+Do you have an adopted dog, how would you encourage people to adopt and not shop?
+Why does velocity affect time? Does velocity affect space geometry?
+How did Otto von Guericke used the Magdeburg hemispheres?
+Can I convert montra helicon D to a mountain bike by just changing the tyres?
+Is Gaza slowly becoming Auschwitz, Dachau or Treblinka for Palestinians?
+Why does Quora automatically ban conservative opinions when reported, but does not do the same for liberal views?
+Is it crazy if I wash or wipe my groceries off? Germs are everywhere.
+Is there such a thing as dressing moderately, and if so, how is that different than dressing modestly?
+Is it just me or have you ever been in this phase wherein you became ignorant to the people you once loved, completely disregarding their feelings/lives so you get to have something go your way and feel temporarily at ease. How did things change?
+
 ## 1. Remove Numbers
 **Example:** Which is best powerbank for iPhone 7 in India? -> Which is best powerbank for iPhone  in India?
 
