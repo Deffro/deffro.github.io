@@ -11,45 +11,7 @@ categories:
 ---
 
 
-## Everything seaborn does to create all kinds of plots is here. This notebook includes:
-<ul>
-  <li><a href='#matplotlib'>Matplotlib</a></li>
-  <ul>
-      <li><a href='#skewness'>Skewness</a></li>
-      <li><a href='#kurtosis'>Kurtosis</a></li>
-  </ul>
-  <li><a href='#univariate'>Univariate analysis Plots</li>
-  <ul>
-      <li><a href='#histogram'>Histogram</a></li>
-      <li><a href='#kde'>KDE Plot</a></li>
-      <li><a href='#box'>Box Plot</a></li>
-      <li><a href='#count'>Count Plot</a></li>
-      <li><a href='#pie'>Pie Chart</a></li>
-  </ul> 
-  <li><a href='#bivariate'>Bivariate analysis Plots</a></li>
-  <ul>
-      <li><a href='#scatter'>Scatter Plot</a></li>
-      <li><a href='#join'>Join Plot</a></li>
-      <li><a href='#reg'>Reg Plot</a></li>
-      <li><a href='#kdeplot'>Kde Plot</a></li>
-      <li><a href='#hex'>Hex Plot</a></li>
-      <li><a href='#line'>Line Plot</a></li>
-      <li><a href='#bar'>Bar Plot</a></li>
-      <li><a href='#boxplot'>Box Plot</a></li>
-      <li><a href='#violin'>Violin Plot</a></li>
-      <li><a href='#boxen'>Boxen Plot</a></li>
-      <li><a href='#strip'>Strip Plot</a></li>
-  </ul>     
-  <li><a href='#multivariate'>Multivariate analysis Plots</a></li>
-  <ul>
-      <li><a href='#correlation'>Correlation Heatmap</a></li>
-      <li><a href='#pairplot'>Pair Plot</a></li>
-      <li><a href='#scatter3'>3 Variables with Scatter Plot</a></li>
-      <li><a href='#scatter4'>4 Variables with Scatter Plot</a></li>
-      <li><a href='#line3'>3 Variable with Line Plot</a></li>
-      <li><a href='#bar3'>3 Variables with Bar Plot</a></li>
-  </ul>       
-</ul>
+## Everything seaborn does to create all kinds of plots is here
 
 ## Import Libraries
 
