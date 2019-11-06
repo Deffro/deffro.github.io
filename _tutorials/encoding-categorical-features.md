@@ -4,7 +4,7 @@ tags: [pre-process, encoding, features, pandas, sklearn]
 header:
   image: "/images/tutorials/donuts.jpg"
   teaser: "/images/teasers/donuts.jpg"
-excerpt: "Pandas, Pre-processing"
+excerpt: "Why to encode categorical features? 6 ways to encode different kinds of data."
 mathjax: "true"
 categories:
   - Data Processing
