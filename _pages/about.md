@@ -14,3 +14,5 @@ While being a Teaching Assistant and a Research Associate by doing research for 
 I am experienced with Python and specialize in Data Cleaning, Analysis, Visualization and Machine Learning.
 
 If you are interested you can contact me on [LinkedIn](https://www.linkedin.com/in/dimitrios-effrosynidis/).
+
+<img src="images/presenting.jpg">
