@@ -48,7 +48,8 @@ categories:
       <li><a href='#line3'>3 Variable with Line Plot</a></li>
       <li><a href='#bar3'>3 Variables with Bar Plot</a></li>
   </ul>       
-</ul>
+
+</ul>  
 
 ### Import Libraries
 
