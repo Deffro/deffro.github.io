@@ -10,7 +10,8 @@ categories:
   - Data Visualization
 ---
 
-### Everything seaborn does to create all kinds of plots is here. This notebook includes:
+
+## Everything seaborn does to create all kinds of plots is here. This notebook includes:
 <ul>
   <li><a href='#matplotlib'>Matplotlib</a></li>
   <ul>
@@ -48,10 +49,9 @@ categories:
       <li><a href='#line3'>3 Variable with Line Plot</a></li>
       <li><a href='#bar3'>3 Variables with Bar Plot</a></li>
   </ul>       
+</ul>
 
-</ul>  
-
-### Import Libraries
+## Import Libraries
 
 
 ```python
