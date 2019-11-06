@@ -3,8 +3,8 @@ title: "Visualizations with Seaborn"
 date: 2018-10-23
 tags: [visualization, EDA, seaborn]
 header:
-  image: "/images/tutorials/seaborn.png"
-  teaser: "/images/teasers/seaborn.png"  
+  image: "/images/tutorials/seaborn.jpg"
+  teaser: "/images/teasers/seaborn.jpg"  
 excerpt: "Code examples for histogram, kde, box, count, pie, scatter, join, reg, hex, line bar, violin, boxen, strip, correlation plots."
 mathjax: "true"
 categories:
@@ -155,7 +155,7 @@ ax.legend(loc='upper right') #if multiple figures, they have to contain label=''
 
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_7_1.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_7_1.png)
 
 
 
@@ -174,11 +174,11 @@ ax[1].yaxis.tick_right() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_8_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_8_0.png)
 
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_8_1.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_8_1.png)
 
 
 ### <a id='univariate'>Univariate Analysis</a>
@@ -202,7 +202,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_11_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_11_0.png)
 
 
 We see that the SalePrice:
@@ -262,7 +262,7 @@ ax[1].yaxis.tick_right() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_16_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_16_0.png)
 
 
 
@@ -278,7 +278,7 @@ ax[1].yaxis.tick_right() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_17_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_17_0.png)
 
 
 
@@ -303,7 +303,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_20_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_20_0.png)
 
 
 #### <a id='box'>Box Plot</a>
@@ -322,7 +322,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_22_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_22_0.png)
 
 
 #### <a id='count'>Count Plot</a>
@@ -344,7 +344,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_24_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_24_0.png)
 
 
 #### <a id='pie'>Pie Chart</a>
@@ -365,7 +365,7 @@ ax.set_ylabel('Garage Cars', fontsize = 12)
 
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_26_1.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_26_1.png)
 
 
 ### <a id='bivariate'>Bivariate Analysis</a>
@@ -392,7 +392,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_30_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_30_0.png)
 
 
 #### <a id='join'>Join Plot (scatter)</a>
@@ -411,7 +411,7 @@ sns.jointplot(train['GrLivArea'], train['SalePrice'], height=8, kind='scatter')
 
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_32_1.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_32_1.png)
 
 
 #### <a id='reg'>Join Plot (reg) or lm Plot</a>
@@ -430,7 +430,7 @@ sns.jointplot(train['GrLivArea'], train['SalePrice'], height=8, kind='reg')
 
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_34_1.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_34_1.png)
 
 
 #### <a id='kdeplot'>Join Plot (kde) or kde Plot</a>
@@ -459,7 +459,7 @@ sns.jointplot(train['GrLivArea'], train['SalePrice'], height=8, kind='kde')
 
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_36_2.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_36_2.png)
 
 
 #### <a id='hex'>Join Plot (hex)</a>
@@ -477,7 +477,7 @@ sns.jointplot(train['GrLivArea'], train['SalePrice'], height=8, kind='hex')
 
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_38_1.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_38_1.png)
 
 
 #### <a id='line'>Line Plot (alternatives: pointplot, relplot)</a>
@@ -503,7 +503,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_40_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_40_0.png)
 
 
 ### Categorical
@@ -531,7 +531,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_43_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_43_0.png)
 
 
 #### <a id='boxplot'>Boxplot</a>
@@ -552,7 +552,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_45_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_45_0.png)
 
 
 #### <a id='violin'>Violin Plot</a>
@@ -579,7 +579,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_47_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_47_0.png)
 
 
 #### <a id='boxen'>Boxen Plot</a>
@@ -605,7 +605,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_49_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_49_0.png)
 
 
 #### <a id='strip'>Strip Plot on Box Plot</a>
@@ -629,7 +629,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_51_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_51_0.png)
 
 
 ### <a id='multivariate'>Multivariate Analysis</a>
@@ -644,7 +644,7 @@ sns.heatmap(corrmat, vmax=.8, square=True);
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_54_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_54_0.png)
 
 
 
@@ -665,7 +665,7 @@ sns.heatmap(cm, cbar=True, annot=True, square=True, fmt='.2f', annot_kws={'size'
 
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_55_1.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_55_1.png)
 
 
 #### <a id='pairplot'>Pairplot</a>
@@ -684,7 +684,7 @@ sns.pairplot(train[cols], height = 2.5)
 
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_57_1.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_57_1.png)
 
 
 #### <a id='scatter3'>3 Variables with Scatter Plot</a>
@@ -705,7 +705,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_59_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_59_0.png)
 
 
 #### <a id='scatter4'>4 Variables with Scatter Plot</a>
@@ -726,7 +726,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_61_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_61_0.png)
 
 
 #### <a id='line3'>3 Variables with Line Plot</a>
@@ -747,7 +747,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_63_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_63_0.png)
 
 
 #### <a id='bar3'>3 Variables with Bar Plot</a>
@@ -767,5 +767,5 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_65_0.png)
+![png](https://deffro.github.io/images/tutorials/Visualizations-with-Seaborn_files/Visualizations-with-Seaborn_65_0.png)
 
