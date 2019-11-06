@@ -1,16 +1,9 @@
 ---
-title: "6 Text Preprocessing Techniques in Python for Twitter Sentiment Analysis."
+title: "16 Text Preprocessing Techniques in Python for Twitter Sentiment Analysis."
 excerpt: "These techniques were used in two scientific papers which I wrote."
 header:
   image: "images/projects/preprocessing.png"
   teaser: "images/teasers/preprocessing.png"
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
 # Text Pre-processing Techniques
