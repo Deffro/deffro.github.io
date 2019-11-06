@@ -70,7 +70,7 @@ sns.distplot(train['SalePrice'])
 
 
 
-![png](Normalization-Standardization_files/Normalization-Standardization_5_1.png)
+![png](images/tutorials/Normalization-Standardization_files/Normalization-Standardization_5_1.png)
 
 
 ## Normalization and Standardization
@@ -220,7 +220,7 @@ sns.distplot(train4['SalePrice'])
 
 
 
-![png](Normalization-Standardization_files/Normalization-Standardization_15_1.png)
+![png](images/tutorials/Normalization-Standardization_files/Normalization-Standardization_15_1.png)
 
 
 Sources:
