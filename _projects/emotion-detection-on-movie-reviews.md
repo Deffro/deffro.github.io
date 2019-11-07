@@ -1,9 +1,9 @@
 ---
-title: "Emotion Detection on Movie Reviews."
+title: "Emotion Detection on Movie Reviews"
 excerpt: ""
 header:
-  image: "images/projects/preprocessing.png"
-  teaser: "images/teasers/preprocessing.png"
+  image: "images/projects/emotion/emotion.png"
+  teaser: "images/teasers/emotion.png"
 categories:
   - Data Processing
   - Feature Selection
@@ -111,24 +111,30 @@ I chose 6 movies with different ratings and genres. I will compare the ratings f
 For each of the 6 movies, I extracted 100 revies, resulting in about 1500 sentences.
 
 ![The GodFather](/images/projects/emotion/f_The_Godfather_w_emovie.png)
+
 The first movie to test is The Godfather. One of the best movies of all time. My model agrees with the various movie websites as the emotion happiness is dominant. 
 There is also a small number og anger sentences like "It’s a decent starting premise, but annoyingly, every time an avenue of interest opens up, the film either bypasses it or shuts it down completely" and
 "Jealousy, betrayal, anger and revenge are all key themes here, and the film is inevitably punctuated by moments of graphic and shocking violence".
 
 ![Terminator](/images/projects/emotion/f_Terminator_w_emovie.png)
+
 The third Terminator movie did not found the love in user rating like the previous two. My model suggests that this is a false conclusion, because there is a lot of happiness in the reviews. For the record, this movie has a great number of surprise sentences,
 given the fact of the rarity of this emotion. An example of surprise sentence is "I’m really surprised at all the negative reviews T3 is receiving".
 
 ![TheExorcist](/images/projects/emotion/f_The_Exorcist_w_emovie.png)
+
 The Exorcist is a classic horror movie with high rating for a horror movie.
 
 ![Halloween](/images/projects/emotion/f_Halloween_w_emovie.png)
+
 Halloween is another horror movie. My model suggests that this movie is more terrifing than the Exorcist.
 
 ![MeetTheSpartans](/images/projects/emotion/f_Meet_The_Spartans_w_emovie.png)
+
 It is considered as one of the worst movies of all time. But this does not mean that views didn't enjoy it and had fun with it. There are a lot of happiness reviews as this movies is a comedy.
 
 ![BattlefieldEarth](/images/projects/emotion/f_Battlefield_Earth_w_emovie.png)
+
 Battlefield Earth is also another movie which is characterized as one of the worst. It has a lot more disgust and a lot less happiness than the previous movie.
 
 We can conclude that mere rating is not enough for a movie, and we can include more color to it classifying emotions.
