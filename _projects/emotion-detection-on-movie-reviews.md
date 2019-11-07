@@ -1,6 +1,5 @@
 ---
 title: "Emotion Detection on Movie Reviews"
-excerpt: ""
 header:
   image: "images/projects/emotion/emotion.png"
   teaser: "images/teasers/emotion.png"
@@ -8,13 +7,6 @@ categories:
   - Data Processing
   - Feature Selection
   - Machine Learning  
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
 
