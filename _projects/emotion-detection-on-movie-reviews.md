@@ -70,7 +70,11 @@ To finalize the dataset, I kept only sentences were at least 2 judges agreed on 
 
 ## 2. Feature Selection
 
+The total features (tokens) before feature selection are **5,636**. I used tf-idf and chi-square methods to rank the features and applied different cutoffs for the top ones.
+These 2 methods and the different cutoffs were compaired among **8** classifiers namely Decision Tree, KNN, Bernoulli Naive Bayes, Ridge, Logistic Regression, Passive Aggressive, SGD and Linear SVC.
 
+![tf-idf](/images/projects/emotion/tfidf.png)
+![chi-square](/images/projects/emotion/chisquare.png)
 
 
 
