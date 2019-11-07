@@ -3,7 +3,8 @@ title: "Emotion Detection on Movie Reviews"
 header:
   image: "images/projects/emotion/emotion.png"
   teaser: "images/teasers/emotion.png"
-categories:
+mathjax: "true"
+  categories:
   - Data Processing
   - Feature Selection
   - Machine Learning  
