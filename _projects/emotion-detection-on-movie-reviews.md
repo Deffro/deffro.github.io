@@ -18,7 +18,7 @@ sidebar:
 ---
 
 
-The object of this project is the **Emotion Analysis** of sentences that are comming from movie reviews, using **Machine Learning**. An attempt will be made to construct a
+The objective of this project is the **Emotion Analysis** of sentences that are comming from movie reviews, using **Machine Learning**. An attempt will be made to construct a
 **classifier** capable of classyfying a sentence in one of the 6 basic categories of emotion which are **anger, disgust, fear, happiness, sadness, surprise**, and the category of **non-emotion**.
 
 Things I did include:
@@ -44,8 +44,8 @@ Movies with more than 40 reviews were randomly retrieved and their reviews were 
 | Sadness | sad, lonely, gloomy, depressed, unhappy, down, disheartened, sorrowful, painful, guilty      |
 | Surprise | astonished, bewildered, survrised, confused, sudden, unaware, shocked, perplexed, what, unexpected     |
 
-Reviews were extracted that contained the above words, resulting in a total of **2,514** sentences. We need **labels** for **supervised** machine learning, so **3 human judjes** were selected to classify each sentence into one category.
-The question that they had to answer was **"Classify the sentence according on the sentiment it exudes"**. The choice of the no-emotion and mixed-emotion were also possible. The judjes were first trained on already classified examples in order to be more confident.
+Reviews were extracted that contained the above words, resulting in a total of **2,514** sentences. We need **labels** for **supervised** machine learning, so **3 human judges** were selected to classify each sentence into one category.
+The question that they had to answer was **"Classify the sentence according on the sentiment it exudes"**. The choice of the no-emotion and mixed-emotion were also possible. The judges were first trained on already classified examples in order to be more confident.
 
 It is very normal that the human judges will disagree on several sentences. There exist metrics which quantify the agreement between the judges called **inter-annotator agreement**.
 I used **Cohen's kappa** which is used to compare the degree of consensus among reviewers in categorizing sentences into mutually exclusive categories. Results between each judge pair are shown below.
@@ -66,12 +66,12 @@ Values differ between emotions and between judges. The biggest are for **happine
 On the other had, the lowest values are for surprise and mixed emotion, and this is an expected behavior as the first is often confused with others and the latter has been added to categorize sentences that do not belong to any of the other categories.
 Nonetheless even a Cohen's kappa value of 0.40 is considered a good agreement.
 
-To finalize the dataset, I kept only sentences were at least 2 judges agreed on the category and added that label to the sentence. In total **2,002** sentences are contained in the final dataset.
+To finalize the dataset, I kept only sentences where at least 2 judges agreed on the category and added that label to the sentence. In total **2,002** sentences are contained in the final dataset.
 
 ## 2. Feature Selection
 
 The total features (tokens) before feature selection are **5,636**. I used **tf-idf** and **chi-square** methods to rank the features and applied different cutoffs for the top ones.
-These 2 methods and the different cutoffs were compaired among **8** classifiers namely **Decision Tree**, **KNN**, **Bernoulli Naive Bayes**, **Ridge**, **Logistic Regression**, **Passive Aggressive**, **SGD** and *Linear SVC**.
+These 2 methods and the different cutoffs were compaired among **8** classifiers namely **Decision Tree**, **KNN**, **Bernoulli Naive Bayes**, **Ridge**, **Logistic Regression**, **Passive Aggressive**, **SGD** and **Linear SVC**.
 
 ![tf-idf](/images/projects/emotion/tfidf.png)
 ![chi-square](/images/projects/emotion/chisquare.png)
@@ -94,7 +94,7 @@ The most used word of the dataset are:
 I feature engineered 14 new features which are basically counts of particular linguistic characteristic in the sentences. Some of them include *countExclamationMarks*, *countAllCaps*, *countEmoticonHappy*, *countElongated*, *countNegations*, *countEmoticonSurprise* and *countEmoticonAnger*.
 The last three improved the model.
 
-On top of that, 3 **emotion lexicons** wete tested, namely *NRC Emotion*, *Emo Sentic Net* and *Depeche Mood*. Given that my dataset is consisted of movie reviews and these datasets are not specialized in a topic like movies, lets see their coverage on the dataset.
+On top of that, 3 **emotion lexicons** were tested, namely *NRC Emotion*, *Emo Sentic Net* and *Depeche Mood*. Given that my dataset is consisted of movie reviews and these datasets are not specialized in a topic like movies, lets see their coverage on the dataset.
 By coverage I mean how many words of the dataset are present in each lexicon. The NRC Emotion contains 33.7% of the dataset's total words, the Sentic Net only 19.7% and the Depeche Mood 49.6%. As there is no good coverage, these lexicons prove not helpfull in the classification accuracy.
 I confirmed that by training the model considering these lexicons, and indeed, performance dropped.
 
@@ -103,17 +103,17 @@ I confirmed that by training the model considering these lexicons, and indeed, p
 I used **majority voting** ensemble classification to improve my results. Before that, I **tuned** all the algorithms to their parameter values. Majority voting is very simple. It classifiies a sentence with 3 algorithms and keeps the predicted label of the majority.
 The 5 best algorithms were tested. Linear SVC, Bernoulli Naive Bayes, Ridge, Passive Aggressive and Linear SVC. The best combination was with Bernoulli Naive Bayes, Passive Aggressive and Linear SVC.
 
-The final accuracy of the model, considering all the improvements (feature selection, text pre-processing, feature engineering, tuning, enxemble) is **65.9%**. As accuracy is not a good metric on unbalanced data, the **F-measure** was also computed. F-measure is the harmonic mean of precision and recall. It was have equal to **62.1%**. This is a high F-measure score for a classification problem with 7 possible labels.
+The final accuracy of the model, considering all the improvements (feature selection, text pre-processing, feature engineering, tuning, enxemble) is **65.9%**. As accuracy is not a good metric on unbalanced data, the **F-measure** was also computed. F-measure is the harmonic mean of precision and recall. It is equal to **62.1%**. This is a high F-measure score for a classification problem with 7 possible labels.
 
 ## 5. Using the model in unknown data
 
-I chose 6 movies with different ratings and genres. I will compare the ratings from popular movie websites (metacritic, IMDb, rotten tomatoes, theMovieDb) we my emotion classification.
-For each of the 6 movies, I extracted 100 revies, resulting in about 1500 sentences.
+I chose 6 movies with different ratings and genres. I will compare the ratings from popular movie websites (metacritic, IMDb, rotten tomatoes, theMovieDb) with my emotion classification.
+For each of the 6 movies, I extracted 100 reviews, resulting in about 1500 sentences.
 
 ![The GodFather](/images/projects/emotion/f_The_Godfather_w_emovie.png)
 
 The first movie to test is The Godfather. One of the best movies of all time. My model agrees with the various movie websites as the emotion happiness is dominant. 
-There is also a small number og anger sentences like "It’s a decent starting premise, but annoyingly, every time an avenue of interest opens up, the film either bypasses it or shuts it down completely" and
+There is also a small number of anger sentences like "It’s a decent starting premise, but annoyingly, every time an avenue of interest opens up, the film either bypasses it or shuts it down completely" and
 "Jealousy, betrayal, anger and revenge are all key themes here, and the film is inevitably punctuated by moments of graphic and shocking violence".
 
 ![Terminator](/images/projects/emotion/f_Terminator_w_emovie.png)
@@ -131,7 +131,7 @@ Halloween is another horror movie. My model suggests that this movie is more ter
 
 ![MeetTheSpartans](/images/projects/emotion/f_Meet_The_Spartans_w_emovie.png)
 
-It is considered as one of the worst movies of all time. But this does not mean that views didn't enjoy it and had fun with it. There are a lot of happiness reviews as this movies is a comedy.
+It is considered as one of the worst movies of all time. But this does not mean that viewers didn't enjoy and had fun with it. There are a lot of happiness reviews as this movie is a comedy.
 
 ![BattlefieldEarth](/images/projects/emotion/f_Battlefield_Earth_w_emovie.png)
 
