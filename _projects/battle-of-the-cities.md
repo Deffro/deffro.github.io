@@ -3,7 +3,7 @@ title: "Battle of the Cities"
 date: 2018-10-09
 author_profile: true
 excerpt: "Let’s suppose that you want to relocate. You don't know where, yet. You have enough money in order to relocate and then search for a job in your new city. You did a quick search for the most livable cities in the world."
-tags: [pre-process, features, sklearn, machine learning]
+tags: [clustering, machine learning]
 header:
   image: "images/projects/map-clusters.png"
   teaser: "images/teasers/map-clusters.png"
