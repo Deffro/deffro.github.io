@@ -10,7 +10,7 @@ header:
 categories:
   - Data Processing
   - Machine Learning  
-  -Clustering
+  - Clustering
 mathjax: "true"
 ---
 
@@ -34,7 +34,7 @@ This list seems ok. But it's not enough for you. It's not for me either. Good th
 
 
 
-## 1. Describing the problem
+## Describing the problem
 
 - I won't do a comparison on stability, healthcare, culture, environment, education and infrastructure. Let's observe cities with a different aspect.
 - What I will do is to compare the cities in terms of venues, like coffee shops, restaurants, stadiums, playgrounds, parks, pubs, supermarkets, banks, gyms etc.
