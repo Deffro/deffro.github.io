@@ -2,22 +2,22 @@
 title: "Battle of the Cities"
 date: 2018-10-09
 author_profile: true
-excerpt: ""
+excerpt: "Let’s suppose that you want to relocate. You don't know where, yet. You have enough money in order to relocate and then search for a job in your new city. You did a quick search for the most livable cities in the world."
 tags: [pre-process, features, sklearn, machine learning]
 header:
-  image: "images/projects/emotion/emotion.png"
-  teaser: "images/teasers/emotion.png"
+  image: "images/projects/map-clusters.png"
+  teaser: "images/teasers/map-clusters.png"
 categories:
   - Data Processing
-  - Feature Selection
   - Machine Learning  
+  -Clustering
 mathjax: "true"
 ---
 
 
 Let’s suppose that you want to relocate. You don't know where, yet. 
 You have enough money in order to relocate and then search for a job in your new city. You did a quick search for the most livable cities in the world. 
-IOn the web you found that the top 10 cities to live are:
+On the web you found that the top 10 cities to live are:
 
 1. Vienna, Austria
 2. Melbourne, Australia
@@ -66,7 +66,7 @@ This list seems ok. But it's not enough for you. It's not for me either. Good th
 
 ## Results and Discussion
 
-![map-clusters](/images/projects/map-clusters.jpg)
+![map-clusters](/images/projects/map-clusters.png)
 There are 2 small clusters consisting of 5 and 7 cities.
 The other cities are grouped in 3 bigger clusters with comparable sizes of 29, 27 and 26.
 
