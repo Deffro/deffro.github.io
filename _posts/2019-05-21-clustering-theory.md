@@ -12,9 +12,6 @@ categories:
 mathjax: "true"
 ---
 
-IMDbPY](http://imdbpy.sourceforge.net/) 
-![Halloween](/images/projects/emotion/f_Halloween_w_emovie.png)
-
 Clustering is the most common form of **unsupervised** learning. It is the process that involves the **grouping** of data points into classes of **similar** objects. 
 
 No supervision means that there is no human expert who has assigned labels to the data points. This is a difference from classification.
