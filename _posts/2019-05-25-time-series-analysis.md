@@ -2,15 +2,29 @@
 title: "Time Series Analysis"
 date: 2019-05-21
 excerpt: "Clustering is the most common form of unsupervised learning. It is the process that involves the grouping of data points into classes of similar objects. "
-tags: [clustering, machine learning]
+tags: [time series, EDA, seaborn, pandas]
 header:
-  image: "images/tutorials/clustering-theory/banner.png"
-  teaser: "images/teasers/banner.png"
+  image: "images/tutorials/time-series-analysis.jpg"
+  teaser: "images/teasers/time-series-analysis.jpg"
 categories:
-  - Clustering
-  - Machine Learning  
+  - Time Series
+  - Exploratory Data Analysis
+  - Data Visualization
 mathjax: "true"
 ---
+
+This a tutorial for **Time Series Analysis** with real-world data from my Ph.D. Inluding:
+
+- Time Plot, Seasonal Plot, Box Plot
+- Seasonality, Trend
+- Seasonal Subseries Plots
+- Time Series Decomposition
+- Detrend
+- Stationarity
+- Autocorrelation
+- Moving Average, Expanding and Exponentially Weighted Moving Average
+- Double and Triple Exponential Smoothing
+- Simple forecasting methods
 
 ```python
 import numpy as np
