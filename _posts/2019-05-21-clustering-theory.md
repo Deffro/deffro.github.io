@@ -19,7 +19,7 @@ No supervision means that there is no human expert who has assigned labels to th
 Given a set of data points, we can use a clustering algorithm to classify each data point into a specific group. In theory, data points that are in the same group should have **similar** properties and/or **features**,
 while data points in different groups should have highly **dissimilar** properties and/or **features**. A simple example is next figure. It is visually clear that there are three distinct clusters of points.
 
-![clusters](/images/tutorials/clustering-theory/clusters.png)
+<p align="center"> <img src="/images/tutorials/clustering-theory/clusters.png"/> </p>
 
 In **Data Science**, we can use clustering analysis to gain some valuable **insights** from our data by observing what groups the data points fall into when we apply a clustering algorithm. 
 
@@ -58,7 +58,7 @@ Thus, the results may not be repeatable and lack consistency. Other cluster meth
 
 In order to find the best number of cluster to initialize the algorithm is to estimate $$RSS_min$$ as follows:
 
-![best-number-of-clusters](/images/tutorials/clustering-theory/best-number-of-clusters.png)
+<p align="center"> <img src="/images/tutorials/clustering-theory/best-number-of-clusters.png"/> </p>
 
 1.	We first perform $$i$$ (e.g., $$i=10$$) clusterings with K clusters (each with a different initialization) and compute the RSS of each.
 2.	We take the minimum of the $$i$$ RSS values.
@@ -74,7 +74,7 @@ Hierarchical clustering algorithms actually fall into 2 categories: **top-down**
 (or *agglomerate*) pairs of clusters until all clusters have been merged into a single cluster that contains all data points. Bottom-up hierarchical clustering is therefore called *hierarchical agglomerative clustering*.
 This hierarchy of clusters is represented as a **tree** (or dendrogram). The root of the tree is the unique cluster that gathers all the samples, the leaves being the clusters with only one sample.
 
-![hierarchical-clustering](/images/tutorials/clustering-theory/hierarchical-clustering.png)
+<p align="center"> <img src="/images/tutorials/clustering-theory/hierarchical-clustering.png"/> </p>
 
 Steps for Agglomerative Hierarchical Clustering:
 
@@ -87,13 +87,13 @@ I.e according to our selected distance metric, these two clusters have the small
 
 ### Linkages to combine clusters
 
-![single-linkage](/images/tutorials/clustering-theory/single-linkage.png)
+<p align="center"> <img src="/images/tutorials/clustering-theory/single-linkage.png"/> </p>
 **Single Linkage**: The distance between two clusters is defined as the shortest distance between two points in each cluster. 
 
-![complete-linkage](/images/tutorials/clustering-theory/complete-linkage.png)
+<p align="center"> <img src="/images/tutorials/clustering-theory/complete-linkage.png"/> </p>
 **Complete Linkage**: The distance between two clusters is defined as the longest distance between two points in each cluster. 
 
-![average-linkage](/images/tutorials/clustering-theory/average-linkage.png)
+<p align="center"> <img src="/images/tutorials/clustering-theory/average-linkage.png"/> </p>
 **Average Linkage**: Τhe distance between two clusters is defined as the average distance between each point in one cluster to every point in the other cluster. 
 
 The **advantages** of hierarchical clustering is that the resulting hierarchical representations can be very **informative**, and they are especially powerful when the dataset contains real hierarchical relationships.
@@ -102,7 +102,7 @@ The **disadvantages** of hierarchical clustering is that they are very **sensiti
 
 ## Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
 
-![dbscan](/images/tutorials/clustering-theory/dbscan.png)
+<p align="center"> <img src="/images/tutorials/clustering-theory/dbscan.png"/> </p>
 
 DBSCAN is a density based clustered algorithm especially useful to correctly identify noise in data.
 
