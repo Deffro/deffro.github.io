@@ -204,7 +204,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](//images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_4_0.png)
+![png](/images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_4_0.png)
 
 
 The monthly data show strong seasonality within each year. There is no cyclic behavior and no trend.
