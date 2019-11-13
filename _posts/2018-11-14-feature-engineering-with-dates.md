@@ -9,6 +9,7 @@ excerpt: "Given a single feature that contains date and time, I created a functi
 mathjax: "true"
 categories:
   - Data Processing
+  - Feature Engineering
 ---
 
 ### Feature Engineering with Dates

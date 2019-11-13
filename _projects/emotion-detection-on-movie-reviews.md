@@ -10,7 +10,8 @@ header:
 categories:
   - Data Processing
   - Feature Selection
-  - Machine Learning  
+  - Machine Learning
+  - Feature Engineering  
 mathjax: "true"
 ---
 
