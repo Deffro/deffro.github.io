@@ -1,13 +1,12 @@
 ---
 title: "Clustering Theory"
 date: 2019-05-21
-excerpt: ""
+excerpt: "Clustering is the most common form of unsupervised learning. It is the process that involves the grouping of data points into classes of similar objects. "
 tags: [clustering, machine learning]
 header:
   image: "images/tutorials/clustering-theory/banner.png"
   teaser: "images/teasers/banner.png"
 categories:
-  - Data Processing
   - Clustering
   - Machine Learning  
 mathjax: "true"
