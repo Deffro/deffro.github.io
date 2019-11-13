@@ -190,7 +190,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](/images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_4_0.png)
+![png](//images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_4_0.png)
 
 
 The monthly data show strong seasonality within each year. There is no cyclic behavior and no trend.
@@ -232,11 +232,11 @@ ax[1].set_ylabel('Salinity Surface', fontsize = 16, fontdict=dict(weight='bold')
 
 
 
-![png](images/tutorials/Time-Series-Analysis_files/Time%20Series%20Analysis_7_1.png)
+![png](/images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_7_1.png)
 
 
 
-![png](images/tutorials/Time-Series-Analysis_files/Time%20Series%20Analysis_7_2.png)
+![png](/images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_7_2.png)
 
 
 ### Seasonal Subseries Plots
@@ -251,7 +251,7 @@ month_plot(y['salinitySurface'],ylabel='SalinitySurface', ax=ax[1]);
 ```
 
 
-![png](images/tutorials/Time-Series-Analysis_files/Time%20Series%20Analysis_9_0.png)
+![png](/images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_9_0.png)
 
 
 ### Decomposition
@@ -279,7 +279,7 @@ decomp.suptitle('Temperature Decomposition', fontsize=22)
 
 
 
-![png](images/tutorials/Time-Series-Analysis_files/Time%20Series%20Analysis_11_1.png)
+![png](/images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_11_1.png)
 
 
 The Hodrick-Prescott filter separates a time-series yt into a trend component τ and a cyclical component ct. For monthly data lambda=129,600.
@@ -296,7 +296,7 @@ y[['trend','temperatureSurface','cycle']].plot(figsize=(15,6)).autoscale(axis='x
 ```
 
 
-![png](images/tutorials/Time-Series-Analysis_files/Time%20Series%20Analysis_13_0.png)
+![png](/images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_13_0.png)
 
 
 ### Measure the strength of trend. 0 for low, 1 for high
@@ -343,7 +343,7 @@ plt.plot(detrended)
 
 
 
-![png](images/tutorials/Time-Series-Analysis_files/Time%20Series%20Analysis_19_1.png)
+![png](/images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_19_1.png)
 
 
 ### Stationarity
@@ -464,7 +464,7 @@ lag_plot(data[data['obs_id']==2]['temperatureSurface']);
 ```
 
 
-![png](images/tutorials/Time-Series-Analysis_files/Time%20Series%20Analysis_30_0.png)
+![png](/images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_30_0.png)
 
 
 
@@ -476,7 +476,7 @@ plot_pacf(data[variable].tolist(), lags=36, ax=ax[1]); # just the plot
 ```
 
 
-![png](images/tutorials/Time-Series-Analysis_files/Time%20Series%20Analysis_31_0.png)
+![png](/images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_31_0.png)
 
 
 
@@ -504,7 +504,7 @@ y.plot(figsize=(15,6));
 ```
 
 
-![png](images/tutorials/Time-Series-Analysis_files/Time%20Series%20Analysis_34_0.png)
+![png](/images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_34_0.png)
 
 
 
@@ -515,7 +515,7 @@ y1['salinitySurface'].expanding().mean().plot(figsize=(15,6));
 ```
 
 
-![png](images/tutorials/Time-Series-Analysis_files/Time%20Series%20Analysis_35_0.png)
+![png](/images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_35_0.png)
 
 
 
@@ -604,7 +604,7 @@ y.plot(figsize=(15,6));
 ```
 
 
-![png](images/tutorials/Time-Series-Analysis_files/Time%20Series%20Analysis_37_0.png)
+![png](/images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_37_0.png)
 
 
 ### Double Exponential Smoothing
@@ -619,7 +619,7 @@ y[['salinitySurface', 'SES3', 'DESadd3']].iloc[:12].plot(figsize=(15,6));
 ```
 
 
-![png](images/tutorials/Time-Series-Analysis_files/Time%20Series%20Analysis_39_0.png)
+![png](/images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_39_0.png)
 
 
 ### Triple Exponential Smoothing
@@ -632,7 +632,7 @@ y[['salinitySurface', 'TESadd3', 'DESadd3']].plot(figsize=(15,6));
 ```
 
 
-![png](images/tutorials/Time-Series-Analysis_files/Time%20Series%20Analysis_41_0.png)
+![png](/images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_41_0.png)
 
 
 ### Simple forecasting methods
