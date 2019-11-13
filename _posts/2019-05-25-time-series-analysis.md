@@ -1,7 +1,7 @@
 ---
 title: "Time Series Analysis"
 date: 2019-05-21
-excerpt: "Clustering is the most common form of unsupervised learning. It is the process that involves the grouping of data points into classes of similar objects. "
+excerpt: "For those of you that want to dive into the world of time series, this is the perfect place to start! Including visualizations for each important time series plot, and all the basic concepts such as stationarity and autocorrelation."
 tags: [time series, EDA, seaborn, pandas]
 header:
   image: "images/tutorials/time-series-analysis.jpg"
