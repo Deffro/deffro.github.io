@@ -16,6 +16,6 @@ I am experienced with Python and specialize in Data Cleaning, Analysis, Visualiz
 
 If you are interested you can contact me on [LinkedIn](https://www.linkedin.com/in/dimitrios-effrosynidis/).
 
-On my free time I play board games, paint miniatures, create dioramas, watch tv shows and movies, play computer games and the piano.
+On my free time I play board games, paint miniatures, create dioramas, watch tv shows and movies, play computer games and the piano. I also travel as much as possible.
 
 <img src="https://deffro.github.io/images/presenting.jpg">
