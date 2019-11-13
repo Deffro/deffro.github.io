@@ -1,5 +1,5 @@
 ---
-title: "Clustering Theory"
+title: "Time Series Analysis"
 date: 2019-05-21
 excerpt: "Clustering is the most common form of unsupervised learning. It is the process that involves the grouping of data points into classes of similar objects. "
 tags: [clustering, machine learning]
@@ -190,7 +190,7 @@ ax.yaxis.tick_left() # where the y axis marks will be
 ```
 
 
-![png](images/tutorials/Time-Series-Analysis_files/Time%20Series%20Analysis_4_0.png)
+![png](images/tutorials/Time-Series-Analysis_files/Time-Series-Analysis_4_0.png)
 
 
 The monthly data show strong seasonality within each year. There is no cyclic behavior and no trend.
