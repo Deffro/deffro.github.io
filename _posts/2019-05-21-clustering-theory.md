@@ -36,7 +36,7 @@ So, the points have to be represented into vectors. The ideal cluster in K-means
 
 A measure of how well the centroids represent the members of their clusters is the **residual sum of squares (RSS)**, the squared distance of each vector from its centroid summed over all vectors K-Means steps:
 
-<p align="center"> <img src="images/tutorials/clustering-theory/k-means-steps.png" /> </p>
+<p align="center"> <img src="images/tutorials/clustering-theory/k-means-steps.png"> </p>
 
 1. We have to select the **number of classes** that we expect to find and **randomly** select that many points as **centroids**. To figure out the number of classes to use, it’s good to take a quick look at the data and try to identify any distinct groupings.
 2. **Each data point** is classified by computing the **distance** between that point and each group center, and then classifying the point to be in the group whose center is **closest** to it.
