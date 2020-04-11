@@ -1,10 +1,10 @@
 ---
 title: "Forecasting Wars: Classical Forecasting Methods vs Machine Learning"
-date: 2020-04-06
-tags: [time series, machine learning, features, sklearn,]
+date: 2020-04-10
+tags: [time series, machine learning, features, sklearn]
 header:
   image: "/images/tutorials/f-wars.png"
-  teaser: "/images/teasers/time-series-analysis-part2.jpg"
+  teaser: "/images/teasers/f-wars.png"
 excerpt: "6 Classical Forecasting Methods are Compared with 3 Machine Learning Algorithms using code in Python on sales data from kaggle."
 mathjax: "true"
 categories:
