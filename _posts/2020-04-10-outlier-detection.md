@@ -4,7 +4,7 @@ date: 2020-06-24
 tags: [pre-process, clustering, visualization]
 header:
   image: "/images/tutorials/outliers.jpg"
-  teaser: "/images/teasers/outliers.png"
+  teaser: "/images/teasers/outliers.jpg"
 excerpt: "Five Algorithms to rule them all, Five Algorithms to find them, Five Algorithms to bring them all and in the darkness bind them."
 mathjax: "true"
 categories:
