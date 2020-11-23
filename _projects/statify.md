@@ -22,9 +22,7 @@ An app where anyone can join with spotify credentials and see a lot of cool stat
 ## <a href="http://5d4a6818027f.ngrok.io/" target="_blank">Click Here to Visit the App</a>
 (if the message "error loading dependencies" appears, it is a known bug and just refresh the page)
 
-![Statify-Demo](images/projects/demo.gif)
 <p><img src="/images/projects/demo.gif" alt="Statify-Demo" />
-<p><img src="/images/projects/emotion/tfidf.png" alt="tf-idf" />
 
 ## Technologies/Concepts used
 - Spotify API
