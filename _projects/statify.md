@@ -23,6 +23,7 @@ An app where anyone can join with spotify credentials and see a lot of cool stat
 (if the message "error loading dependencies" appears, it is a known bug and just refresh the page)
 
 ![Statify-Demo](images/projects/demo.gif)
+<p><img src="/images/projects/emotion/tfidf.png" alt="tf-idf" />
 
 ## Technologies/Concepts used
 - Spotify API
