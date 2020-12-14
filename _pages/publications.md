@@ -5,7 +5,7 @@ permalink: /publications/
 classes: wide
 ---
 
-<h3>2019</h3>
+<h3>2020</h3>
 
 <strong>Species Distribution Modelling via Feature Engineering and Machine Learning for Pelagic Fishes in the Mediterranean Sea.</strong><br>
 **Dimitrios Effrosynidis**, Athanassios Tsikliras, Avi, Arampatzis, Georgios Sylaios. *Applied Sciences*, Volume 10, December 2020.
