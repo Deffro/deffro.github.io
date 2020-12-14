@@ -15,17 +15,17 @@ classes: wide
 
 <strong>Seagrass and Hydrographic data for the Mediterranean Sea.</strong><br>
 <strong>Dimitrios Effrosynidis</strong>, Avi Arampatzis, and Georgios Sylaios. *Data in brief*, Volume 25, August 2019.
-© Elsevier. | 2019 Impact Factor: 0.970 **3** Citations.
+© Elsevier. | 2019 Impact Factor: 0.970, **3** Citations.
 
 <h3>2018</h3>
 
 <strong>Seagrass Detection in the Mediterranean: A Supervised Learning Approach.</strong><br>
 **Dimitrios Effrosynidis**, Avi Arampatzis, and Georgios Sylaios. *Ecological informatics*, Volume 48, pages 158-170, November 2018.
-© Elsevier. | 2019 Impact Factor: 1.820; 5-Year Impact Factor: 2.520 **7** Citations.
+© Elsevier. | 2019 Impact Factor: 1.820; 5-Year Impact Factor: 2.520, **7** Citations.
 
 <strong>A Comparative Evaluation of Pre-processing Techniques and their Interactions for Twitter Sentiment Analysis.</strong><br>
 Symeon Symeonidis, <strong>Dimitrios Effrosynidis</strong>, Avi Arampatzis. *Expert Systems with Applications*, Volume 110, pages 298-310, November 2018.
-© Elsevier. | 2019 Impact Factor: 3.768; 5-Year Impact Factor: 5.452 **57** Citations.
+© Elsevier. | 2019 Impact Factor: 3.768; 5-Year Impact Factor: 5.452, **57** Citations.
 
 <strong>DUTH at SemEval-2018 Task 2: Emoji Prediction in Tweets.</strong><br>
 <strong>Dimitrios Effrosynidis</strong>, Georgios Peikos, Symeon Symeonidis, Avi Arampatzis.
