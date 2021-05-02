@@ -3,7 +3,7 @@ title: "Topic Modeling on my Watched Movies"
 date: 2021-03-19
 author_profile: true
 excerpt: "Merge IMDb with Wikipedia movie data and build, evaluate and visualize topics using LDA."
-tags: [pre-process, pandas, visualization, topi modeling]
+tags: [pre-process, pandas, visualization, topic modeling]
 header:
   image: "images/projects/topic-modeling.png"
   teaser: "images/teasers/topic-modeling.png"

@@ -12,10 +12,15 @@ categories:
   - Software Development
   - Web Development
   - API
+  - Deployment
 mathjax: "true"
 ---
 
 An app where anyone can join with spotify credentials and see a lot of cool statistics about his/her profile.
+
+Before visiting the app, you might want to check the Known Bugs section at the end of the page.
+
+Since the app uses a lot of requests, does a lot of processing and creates many visualizations, it can take up to 20 seconds to load.
 
 **The project is available on my [GitHub](https://github.com/Deffro/statify).**
 
@@ -34,6 +39,7 @@ An app where anyone can join with spotify credentials and see a lot of cool stat
 - Flask
 - Ngrok
 - Html, Css
+- Heroku
 
 ## How to run it by yourself
 - Create an app in [spotify](https://developer.spotify.com/dashboard/applications) and generate your client id and client secret
