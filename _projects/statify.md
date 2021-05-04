@@ -24,7 +24,7 @@ Since the app uses a lot of requests, does a lot of processing and creates many 
 
 **The project is available on my [GitHub](https://github.com/Deffro/statify).**
 
-## <a href="http://5d4a6818027f.ngrok.io/" target="_blank">Click Here to Visit the App</a>
+## <a href="https://statify-deffro.herokuapp.com/" target="_blank">Click Here to Visit the App</a>
 (if the message "error loading dependencies" appears, it is a known bug and just refresh the page)
 
 <img src="/images/projects/demo.gif" alt="Statify-Demo" />

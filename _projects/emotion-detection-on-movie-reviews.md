@@ -2,7 +2,7 @@
 title: "Emotion Detection on Movie Reviews"
 date: 2017-11-03
 author_profile: true
-excerpt: "The objective of this project is the Emotion Analysis of sentences that are comming from movie reviews, using Machine Learning. An attempt will be made to construct a classifier capable of classyfying a sentence in one of the 6 basic categories of emotion which are anger, disgust, fear, happiness, sadness, surprise, and the category of non-emotion."
+excerpt: "The objective of this project is the Emotion Analysis of sentences that are coming from movie reviews, using Machine Learning. An attempt will be made to construct a classifier capable of classifying a sentence in one of the 6 basic categories of emotion which are anger, disgust, fear, happiness, sadness, surprise, and the category of non-emotion."
 tags: [pre-process, features, sklearn, machine learning]
 header:
   image: "images/projects/emotion/emotion.png"
@@ -16,8 +16,8 @@ mathjax: "true"
 ---
 
 
-The objective of this project is the **Emotion Analysis** of sentences that are comming from movie reviews, using **Machine Learning**. An attempt will be made to construct a
-**classifier** capable of classyfying a sentence in one of the 6 basic categories of emotion which are **anger, disgust, fear, happiness, sadness, surprise**, and the category of **non-emotion**.
+The objective of this project is the **Emotion Analysis** of sentences that are coming from movie reviews, using **Machine Learning**. An attempt will be made to construct a
+**classifier** capable of classifying a sentence in one of the 6 basic categories of emotion which are **anger, disgust, fear, happiness, sadness, surprise**, and the category of **non-emotion**.
 
 Things I did include:
 
