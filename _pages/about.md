@@ -17,7 +17,7 @@ Quantitative and Algorithmic Trading Research company where I am currently worki
 
 I love data. I am passionate about Data Science. I learn every day in this exciting, ever changing field.
 As I learn, I try to write blog posts to document my journey on [Medium](https://medium.com/@dimitris.effrosynidis) 
-and my personal (website)[https://deffro.github.io/]. The code for most of my projects is available on [GitHub](https://github.com/Deffro), where 
+and my personal [website](https://deffro.github.io/). The code for most of my projects is available on [GitHub](https://github.com/Deffro), where 
 my [Data Science Portfolio](https://github.com/Deffro/Data-Science-Portfolio) is also located.
 
 At the beginning of my Data Science journey, I was competing in [Kaggle](https://www.kaggle.com/deffro). 
