@@ -9,7 +9,7 @@ classes: wide
 
 <strong>DUTH at SemEval-2021 Task 7: Is Conventional Machine Learning for Humorous and Offensive Tasks enough in 2021?</strong><br>
 Alexandros Karasakalidis, **Dimitrios Effrosynidis**, Avi Arampatzis.
-In: *Proceedings of the 15th International Workshop on Semantic Evaluation*, SemEval@ACL 2021, pp. 1125-1129, August 2021. © Association for Computational Linguistics **1** Citations.
+In: *Proceedings of the 15th International Workshop on Semantic Evaluation*, SemEval@ACL 2021, pp. 1125-1129, August 2021. © Association for Computational Linguistics **1** Citation.
 
 <strong>An evaluation of feature selection methods for environmental data.</strong><br>
 **Dimitrios Effrosynidis**, Avi Arampatzis. *Ecological Informatics*, Volume 61, pages 101224, March 2021.
