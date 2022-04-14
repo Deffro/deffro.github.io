@@ -93,7 +93,7 @@ author:
   location         : #"Greece"
   email            : #dimitris.effrosynidis@gmail.com
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : /posts # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
