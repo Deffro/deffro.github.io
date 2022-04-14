@@ -1,17 +1,8 @@
 ---
-layout: posts
-author_profile: true
-header:
-  image: "/images/wall.png"
+title: Posts
+layout: collection
+permalink: /posts/
+collection: posts
+entries_layout: grid
+classes: wide
 ---
-
-<ul class="taxonomy__index">
-  {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-  {% for year in postsInYear %}
-    <li>
-      <a href="#{{ year.name }}">
-        <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
-      </a>
-    </li>
-  {% endfor %}
-</ul>
