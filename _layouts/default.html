@@ -1,29 +1,42 @@
 ---
-layout: archive
 ---
 
-{{ content }}
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.17.2 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-<ul class="taxonomy__index">
-  {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-  {% for year in postsInYear %}
-    <li>
-      <a href="#{{ year.name }}">
-        <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    {% include_cached skip-links.html %}
+    {% include_cached browser-upgrade.html %}
+    {% include_cached masthead.html %}
 
-{% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-{% for year in postsByYear %}
-  <section id="{{ year.name }}" class="taxonomy__section">
-    <h2 class="archive__subtitle">{{ year.name }}</h2>
-    <div class="entries-{{ page.entries_layout | default: 'list' }}">
-      {% for post in year.items %}
-        {% include archive-single.html type=page.entries_layout %}
-      {% endfor %}
+    <div class="initial-content">
+      {{ content }}
     </div>
-    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-  </section>
-{% endfor %}
+
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include_cached search/search_form.html %}
+      </div>
+    {% endif %}
+
+    <div id="footer" class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>
