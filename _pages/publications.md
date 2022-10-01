@@ -7,7 +7,7 @@ classes: wide
 
 <h3>2022</h3>
 
-<strong></strong><br>
+<strong>Exploring Climate Change on Twitter Using Seven Aspects: Stance, Sentiment, Aggressiveness, Temperature, Gender, Topics, and Disasters.</strong><br>
 **Dimitrios Effrosynidis**, Georgios Sylaios, Avi Arampatzis. *Plos one*, Volume 17.9, pages e0274213, September 2022.
 © Public Library of Science San Francisco, CA USA | 2021 Impact Factor: 3.752; 5-Year Impact Factor: 3.272, **0** Citations.
 
