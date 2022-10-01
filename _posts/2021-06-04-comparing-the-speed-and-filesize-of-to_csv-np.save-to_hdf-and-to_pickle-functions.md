@@ -6,7 +6,7 @@ excerpt: "Achieve ×66 speedup read time, ×25 write time, and ×0.39 filesize o
 tags: [pandas]
 header:
   image: "images/tutorials/comparing-speed.png"
-  teaser: "images/tutorials/comparing-speed.png"
+  teaser: "images/teasers/comparing-speed.png"
 categories:
   - Data Processing
 mathjax: "true"
