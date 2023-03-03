@@ -1,5 +1,5 @@
 ---
-title: "YouTube Video Resolution Downgrade Classification"
+title: "Ensemble Feature Selection for Machine Learning"
 date: 2022-11-02
 author_profile: true
 excerpt: "Investigate if ensemble feature selection methods are superior of individual in machine learning classification problems."
