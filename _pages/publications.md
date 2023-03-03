@@ -9,27 +9,27 @@ classes: wide
 
 <strong>Exploring Climate Change on Twitter Using Seven Aspects: Stance, Sentiment, Aggressiveness, Temperature, Gender, Topics, and Disasters.</strong><br>
 **Dimitrios Effrosynidis**, Georgios Sylaios, Avi Arampatzis. *Plos one*, Volume 17.9, pages e0274213, September 2022.
-© Public Library of Science San Francisco, CA USA | 2021 Impact Factor: 3.752; 5-Year Impact Factor: 3.272, **0** Citations.
+© Public Library of Science San Francisco, CA USA | 2021 Impact Factor: 3.752; 5-Year Impact Factor: 3.272, **1** Citation.
 
 <strong>The climate change Twitter dataset.</strong><br>
 **Dimitrios Effrosynidis**, Alexandros Karasakalidis, Georgios Sylaios, Avi Arampatzis. *Expert Systems with Applications*, Volume 204, pages 117541, October 2022.
-© Elsevier. | 2021 Impact Factor: 8.665; 5-Year Impact Factor: 8.093, **4** Citations.
+© Elsevier. | 2021 Impact Factor: 8.665; 5-Year Impact Factor: 8.093, **12** Citations.
 
 <h3>2021</h3>
 
 <strong>DUTH at SemEval-2021 Task 7: Is Conventional Machine Learning for Humorous and Offensive Tasks enough in 2021?</strong><br>
 Alexandros Karasakalidis, **Dimitrios Effrosynidis**, Avi Arampatzis.
-In: *Proceedings of the 15th International Workshop on Semantic Evaluation*, SemEval@ACL 2021, pp. 1125-1129, August 2021. © Association for Computational Linguistics **1** Citation.
+In: *Proceedings of the 15th International Workshop on Semantic Evaluation*, SemEval@ACL 2021, pp. 1125-1129, August 2021. © Association for Computational Linguistics **2** Citations.
 
 <strong>An evaluation of feature selection methods for environmental data.</strong><br>
 **Dimitrios Effrosynidis**, Avi Arampatzis. *Ecological Informatics*, Volume 61, pages 101224, March 2021.
-© Elsevier. | 2021 Impact Factor: 4.495; 5-Year Impact Factor: 4.180, **36** Citations.
+© Elsevier. | 2021 Impact Factor: 4.495; 5-Year Impact Factor: 4.180, **52** Citations.
 
 <h3>2020</h3>
 
 <strong>Species Distribution Modelling via Feature Engineering and Machine Learning for Pelagic Fishes in the Mediterranean Sea.</strong><br>
 **Dimitrios Effrosynidis**, Athanassios Tsikliras, Avi Arampatzis, Georgios Sylaios. *Applied Sciences*, Volume 10, December 2020.
-© MDPI. | 2021 Impact Factor: 2.679; 5-Year Impact Factor: 2.736, **4** Citations.
+© MDPI. | 2021 Impact Factor: 2.679; 5-Year Impact Factor: 2.736, **6** Citations.
 
 <h3>2019</h3>
 
@@ -41,11 +41,11 @@ In: *Proceedings of the 15th International Workshop on Semantic Evaluation*, Sem
 
 <strong>Seagrass Detection in the Mediterranean: A Supervised Learning Approach.</strong><br>
 **Dimitrios Effrosynidis**, Avi Arampatzis, and Georgios Sylaios. *Ecological informatics*, Volume 48, pages 158-170, November 2018.
-© Elsevier. | 2021 Impact Factor: 4.495; 5-Year Impact Factor: 4.180, **22** Citations.
+© Elsevier. | 2021 Impact Factor: 4.495; 5-Year Impact Factor: 4.180, **23** Citations.
 
 <strong>A Comparative Evaluation of Pre-processing Techniques and their Interactions for Twitter Sentiment Analysis.</strong><br>
 Symeon Symeonidis, <strong>Dimitrios Effrosynidis</strong>, Avi Arampatzis. *Expert Systems with Applications*, Volume 110, pages 298-310, November 2018.
-© Elsevier. | 2021 Impact Factor: 8.665; 5-Year Impact Factor: 8.093, **162** Citations.
+© Elsevier. | 2021 Impact Factor: 8.665; 5-Year Impact Factor: 8.093, **192** Citations.
 
 <strong>DUTH at SemEval-2018 Task 2: Emoji Prediction in Tweets.</strong><br>
 <strong>Dimitrios Effrosynidis</strong>, Georgios Peikos, Symeon Symeonidis, Avi Arampatzis.
@@ -56,11 +56,11 @@ In: *Proceedings of the 12th International Workshop on Semantic Evaluation*, Sem
 
 <strong>A Comparison of Pre-processing Techniques for Twitter Sentiment Analysis.</strong><br>
 <strong>Dimitrios Effrosynidis</strong>, Symeon Symeonidis, Avi Arampatzis. In: *Research and Advanced Technology for Digital Libraries - 21st International Conference on Theory and Practice of Digital Libraries*, 
-TPDL 2017, pp. 394-406, Thessaloniki, Greece, September 18-21, 2017. LNCS 10450; © Springer **57** Citations.
+TPDL 2017, pp. 394-406, Thessaloniki, Greece, September 18-21, 2017. LNCS 10450; © Springer **65** Citations.
 
 <strong>DUTH at SemEval-2017 Task 5: Sentiment Predictability in Financial Microblogging and News Articles.</strong><br> 
 Symeon Symeonidis, John Kordonis, <strong>Dimitrios Effrosynidis</strong>, Avi Arampatzis. In: *Proceedings of the 11th International Workshop on Semantic Evaluation*, 
-SemEval@ACL 2017, pp. 861-865, Vancouver, Canada, August 3-4, 2017. © Association for Computational Linguistics **2** Citations.
+SemEval@ACL 2017, pp. 861-865, Vancouver, Canada, August 3-4, 2017. © Association for Computational Linguistics **3** Citations.
 
 <strong>DUTH at SemEval-2017 Task 4: A Voting Classification Approach for Twitter Sentiment Analysis.</strong><br>
 Symeon Symeonidis, <strong>Dimitrios Effrosynidis</strong>, John Kordonis, Avi Arampatzis. In: *Proceedings of the 11th International Workshop on Semantic Evaluation*, 
