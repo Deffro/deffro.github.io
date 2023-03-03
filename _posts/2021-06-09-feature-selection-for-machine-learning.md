@@ -19,7 +19,7 @@ Most of the content of this article is from my recent paper entitled:
 “An Evaluation of Feature Selection Methods for Environmental Data”, available [here](https://www.sciencedirect.com/science/article/abs/pii/S1574954121000157) for anyone interested.
 
 ## The 2 approaches for Dimensionality Reduction
-There are two ways to reduce the number of features, otherwise known as dimensionality reduction.
+There are two ways to reduce the number of features, otherwise known as dimensionality reduction. 
 
 The first way is called feature extraction and it aims to transform the features and create entirely new ones based on combinations of the raw/given ones.
 The most popular approaches are the Principle Component Analysis (PCA), Linear Discriminant Analysis (LDA), and Multidimensional Scaling. However, the new feature space can hardly provide us with useful information about the original features.
