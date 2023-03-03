@@ -12,6 +12,7 @@ categories:
   - Deployment
   - MLOps
   - Feature Engineering
+mathjax: "true"
 ---
 
 **The project is available on my [GitHub](https://github.com/Deffro/MLOps)**
