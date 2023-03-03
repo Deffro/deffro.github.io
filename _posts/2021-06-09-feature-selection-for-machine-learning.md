@@ -2,7 +2,7 @@
 title: "Feature Selection for Machine Learning: 3 Categories and 12 Methods"
 date: 2021-06-09
 author_profile: true
-excerpt: "Learn basic theory about the 3 types of feature selection in machine learning namely filters, wrappers, and embedders. Explore 12 methods with theory and sample code."
+excerpt: "Learn basic theory about the 3 types of feature selection in machine learning namely filters, wrappers, and embedders."
 tags: [features, machine learning,]
 header:
   image: "images/projects/fs.jpg"
