@@ -5,6 +5,12 @@ permalink: /publications/
 classes: wide
 ---
 
+<h3>2023</h3>
+
+<strong>Time series and regression methods for univariate environmental forecasting: An empirical evaluation.</strong><br>
+**Dimitrios Effrosynidis**, Evangelos Spiliotis, Georgios Sylaios, Avi Arampatzis. *Science of The Total Environment*, Volume 875, pages 162580, June 2023.
+© Elsevier | 2021 Impact Factor: 10.754; 5-Year Impact Factor: 8.01, **0** Citations.
+
 <h3>2022</h3>
 
 <strong>Exploring Climate Change on Twitter Using Seven Aspects: Stance, Sentiment, Aggressiveness, Temperature, Gender, Topics, and Disasters.</strong><br>
