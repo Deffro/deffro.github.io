@@ -15,7 +15,7 @@ classes: wide
 
 <strong>Exploring Climate Change on Twitter Using Seven Aspects: Stance, Sentiment, Aggressiveness, Temperature, Gender, Topics, and Disasters.</strong><br>
 **Dimitrios Effrosynidis**, Georgios Sylaios, Avi Arampatzis. *Plos one*, Volume 17.9, pages e0274213, September 2022.
-© Public Library of Science San Francisco, CA USA | 2021 Impact Factor: 3.752; 5-Year Impact Factor: 3.272, **13** Citationσ.
+© Public Library of Science San Francisco, CA USA | 2021 Impact Factor: 3.752; 5-Year Impact Factor: 3.272, **13** Citations.
 
 <strong>The climate change Twitter dataset.</strong><br>
 **Dimitrios Effrosynidis**, Alexandros Karasakalidis, Georgios Sylaios, Avi Arampatzis. *Expert Systems with Applications*, Volume 204, pages 117541, October 2022.
