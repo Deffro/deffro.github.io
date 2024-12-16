@@ -23,10 +23,6 @@ classes: wide
 **Dimitrios Effrosynidis**, Georgios Sylaios, Avi Arampatzis. *Plos one*, Volume 17.9, pages e0274213, September 2022.
 © Public Library of Science. | 2023 Impact Factor: 2.915, **28** Citations.
 
-<strong>Exploring Climate Change on Twitter Using Seven Aspects: Stance, Sentiment, Aggressiveness, Temperature, Gender, Topics, and Disasters.</strong><br>
-**Dimitrios Effrosynidis**, Georgios Sylaios, Avi Arampatzis. *Plos one*, Volume 17.9, pages e0274213, September 2022.
-© Public Library of Science San Francisco, CA USA | 2021 Impact Factor: 3.752; 5-Year Impact Factor: 3.272, **13** Citations.
-
 <strong>The climate change Twitter dataset.</strong><br>
 **Dimitrios Effrosynidis**, Alexandros Karasakalidis, Georgios Sylaios, Avi Arampatzis. *Expert Systems with Applications*, Volume 204, pages 117541, October 2022.
 © Elsevier. | 2021 Impact Factor: 8.665; 5-Year Impact Factor: 8.093, **65** Citations.
@@ -65,10 +61,6 @@ In: *Proceedings of the 15th International Workshop on Semantic Evaluation*, Sem
 Symeon Symeonidis, <strong>Dimitrios Effrosynidis</strong>, Avi Arampatzis. *Expert Systems with Applications*, Volume 110, pages 298-310, November 2018.
 © Elsevier. | 2021 Impact Factor: 6.954; 5-Year Impact Factor: 8.82, **279** Citations.
 
-<strong>A Comparative Evaluation of Pre-processing Techniques and their Interactions for Twitter Sentiment Analysis.</strong><br>
-Symeon Symeonidis, <strong>Dimitrios Effrosynidis</strong>, Avi Arampatzis. *Expert Systems with Applications*, Volume 110, pages 298-310, November 2018.
-© Elsevier. | 2021 Impact Factor: 8.665; 5-Year Impact Factor: 8.093, **232** Citations.
-
 <strong>DUTH at SemEval-2018 Task 2: Emoji Prediction in Tweets.</strong><br>
 <strong>Dimitrios Effrosynidis</strong>, Georgios Peikos, Symeon Symeonidis, Avi Arampatzis.
 In: *Proceedings of the 12th International Workshop on Semantic Evaluation*, SemEval@ACL 2018, pp. 466-469, New Orleans, Louisiana, June 5-6, 2018. © Association for Computational Linguistics. **8** Citations.
@@ -86,5 +78,5 @@ SemEval@ACL 2017, pp. 861-865, Vancouver, Canada, August 3-4, 2017. © Associati
 
 <strong>DUTH at SemEval-2017 Task 4: A Voting Classification Approach for Twitter Sentiment Analysis.</strong><br>
 Symeon Symeonidis, <strong>Dimitrios Effrosynidis</strong>, John Kordonis, Avi Arampatzis. In: *Proceedings of the 11th International Workshop on Semantic Evaluation*, 
-SemEval@ACL 2017, pp. 704-708, Vancouver, Canada, August 3-4, 2017. © Association for Computational Linguistics **12** Citations.
+SemEval@ACL 2017, pp. 704-708, Vancouver, Canada, August 3-4, 2017. © Association for Computational Linguistics **12** Citations. <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eDbjFQMAAAAJ&sortby=pubdate&citation_for_view=eDbjFQMAAAAJ:u5HHmVD_uO8C">Google Scholar</a>
 
