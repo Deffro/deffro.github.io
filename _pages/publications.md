@@ -78,5 +78,5 @@ SemEval@ACL 2017, pp. 861-865, Vancouver, Canada, August 3-4, 2017. © Associati
 
 <strong>DUTH at SemEval-2017 Task 4: A Voting Classification Approach for Twitter Sentiment Analysis.</strong><br>
 Symeon Symeonidis, <strong>Dimitrios Effrosynidis</strong>, John Kordonis, Avi Arampatzis. In: *Proceedings of the 11th International Workshop on Semantic Evaluation*, 
-SemEval@ACL 2017, pp. 704-708, Vancouver, Canada, August 3-4, 2017. © Association for Computational Linguistics **12** Citations. <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eDbjFQMAAAAJ&sortby=pubdate&citation_for_view=eDbjFQMAAAAJ:u5HHmVD_uO8C">Google Scholar</a>
+SemEval@ACL 2017, pp. 704-708, Vancouver, Canada, August 3-4, 2017. © Association for Computational Linguistics **12** Citations. <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eDbjFQMAAAAJ&sortby=pubdate&citation_for_view=eDbjFQMAAAAJ:u5HHmVD_uO8C" target="_blank">Google Scholar</a>
 
