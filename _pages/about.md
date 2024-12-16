@@ -5,14 +5,16 @@ header:
   image: "/images/data.png"
 ---
 
+<h3>Education and Research</h3>
 I received my diploma from the Department of Electrical and Computer Engineering, Democritus University of 
 Thrace, Greece in 2017, and right after, I started pursuing a Ph.D. degree entitled 
-"Data Science for Environmental Applications". I successfullt defended my Ph.D. on 2022. <br />
+"Data Science for Environmental Applications". I successfullt defended my Ph.D. on 2022.
+
 During my Ph.D. time, I was a Teaching Assistant (Databases, Data Mining, Machine Learning).
 On top of that I was working as a Research Associate, where I am still working for more than 7 years. I have published [14 scientific 
 papers](https://scholar.google.com/citations?user=eDbjFQMAAAAJ&hl=en&oi=ao) being cited more that 700 times. During this time, I am honing my skills in data aggregation, preprocessing, visualization, machine learning, feature selection, natural language processing, and clustering techniques.
 
-
+<h3>The first Data Science Job</h3>
 In 2019-2020 I fulfilled my military service, while in that year I landed my first Data Science job in a 
 Quantitative and Algorithmic Trading Research company. <br />
 During my time there, I have contributed significantly to my company's success by implementing Machine Learning from scratch, 
@@ -29,6 +31,8 @@ I also developed and evaluated various Machine Learning models, including Linear
 I was explaining the outcomes of Classification and Regression Machine Learning models, as well as the interactions between predictors and targets. <br />
 My experience and expertise have allowed me eventually to supervise and mentor other Data Scientists, demonstrating my ability to collaborate and communicate effectively with colleagues.
 
+<h3>The second Data Science Job</h3>
+
 My journey in the company lasted 2 years and 7 months. After this period, I successfully landed my second Data Science job in 2022, where I focused on solving complex problems related to anomaly detection, time series forecasting, and performance optimization. My role involved analyzing large and intricate datasets to extract insights and drive actionable solutions for clients.
 
 One of my primary responsibilities was applying Anomaly Detection techniques to identify irregularities and outliers in client data. By implementing Root Cause Analysis, I was able to pinpoint the underlying factors causing these anomalies, helping teams resolve issues efficiently and maintain system reliability. My contributions in this area enabled clients to gain a clearer understanding of their data quality and operational performance.
@@ -40,6 +44,8 @@ Performance optimization was another challenge I took on. I enhanced the efficie
 Throughout my time in this role, I immersed myself in exploratory data analysis (EDA), developing a deep understanding of datasets and uncovering trends that were otherwise overlooked. I collaborated closely with cross-functional teams to communicate my findings and ensure that stakeholders could leverage these insights effectively. <br /> This role allowed me to refine my skills in statistical modeling, anomaly detection, and time series analysis while reinforcing my ability to deliver impactful results in a fast-paced business environment.
 
 By the end of my journey at the company, which lasted 1 year and 1 month, I had strengthened my technical expertise, improved production processes, and contributed to the company’s success through a combination of innovation, critical thinking, and a commitment to solving challenging problems.
+
+<h3>The third Data Science Job</h3>
 
 I began my next chapter as a Data Scientist in 2023, where I shifted my focus to solving challenges in forecasting, classification, and large-scale data analysis. My role was pivotal in driving innovation and delivering impactful solutions for real-world problems.
 
