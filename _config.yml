@@ -87,7 +87,7 @@ analytics:
 # Site Author
 author:
   name: "Dimitris Effrosynidis"
-  avatar: "/images/prof.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/images/prof.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: #"Data Science Portfolio"
   location: #"Greece"
   email: #dimitris.effrosynidis@gmail.com
