@@ -5,7 +5,7 @@ author_profile: true
 excerpt: "Exploring the encoder-decoder magic in NLP behind LLMs"
 tags: [transformers, BERT, GPT]
 header:
-  image: "images/projects/transformer-architecture.webp"
+  image: "images/tutorials/transformer-architecture.webp"
   teaser: "images/teasers/transformer-architecture.png"
 categories:
   - Generative AI
