@@ -11,27 +11,27 @@ Thrace, Greece in 2017, and right after, I started pursuing a Ph.D. degree entit
 "Data Science for Environmental Applications". I successfullt defended my Ph.D. on 2022.
 
 During my Ph.D. time, I was a Teaching Assistant (Databases, Data Mining, Machine Learning).
-On top of that I was working as a Research Associate, where I am still working for more than 7 years. I have published [14 scientific 
+On top of that I was working as a Research Associate, where I am still working for more than 7 years. I have published [14 scientific
 papers](https://scholar.google.com/citations?user=eDbjFQMAAAAJ&hl=en&oi=ao) being cited more that 700 times. During this time, I am honing my skills in data aggregation, preprocessing, visualization, machine learning, feature selection, natural language processing, and clustering techniques.
 
-<h3>The first Data Science Job</h3>
+<h3>My time at Mathisys Technologies</h3>
 In 2019-2020 I fulfilled my military service, while in that year I landed my first Data Science job in a 
 Quantitative and Algorithmic Trading Research company. <br />
 During my time there, I have contributed significantly to my company's success by implementing Machine Learning from scratch, 
-building Data Science Pipelines, and developing and evaluating Machine Learning models. 
+building Data Science Pipelines, and developing and evaluating Machine Learning models.
 
-One of my key achievements was introducing Machine Learning to the company. I built everything from scratch, including algorithms, models, and tools. 
+One of my key achievements was introducing Machine Learning to the company. I built everything from scratch, including algorithms, models, and tools.
 This significantly improved the company's ability to analyze data and make informed decisions. <br />
-I also developed Data Science Pipelines that automated various procedures, including Data Aggregation, Pre-processing, Feature Engineering and Selection, 
+I also developed Data Science Pipelines that automated various procedures, including Data Aggregation, Pre-processing, Feature Engineering and Selection,
 Model Training and Evaluation, Analysis, and Simulation. These pipelines have saved hours of manual work for the team, allowing them to focus on other critical tasks.
 
-My analytical skills were further evidenced by my ability to analyze data using Interactive Visualizations. I developed tools that were used daily by the team, 
+My analytical skills were further evidenced by my ability to analyze data using Interactive Visualizations. I developed tools that were used daily by the team,
 and these tools helped to explain complex data in an easy-to-understand manner. <br />
-I also developed and evaluated various Machine Learning models, including Linear Regression, Random Forest, Light Gradient Boosting, Logistic Regression, and K-means. 
+I also developed and evaluated various Machine Learning models, including Linear Regression, Random Forest, Light Gradient Boosting, Logistic Regression, and K-means.
 I was explaining the outcomes of Classification and Regression Machine Learning models, as well as the interactions between predictors and targets. <br />
 My experience and expertise have allowed me eventually to supervise and mentor other Data Scientists, demonstrating my ability to collaborate and communicate effectively with colleagues.
 
-<h3>The second Data Science Job</h3>
+<h3>My time at Mobileum</h3>
 
 My journey in the company lasted 2 years and 7 months. After this period, I successfully landed my second Data Science job in 2022, where I focused on solving complex problems related to anomaly detection, time series forecasting, and performance optimization. My role involved analyzing large and intricate datasets to extract insights and drive actionable solutions for clients.
 
@@ -45,7 +45,7 @@ Throughout my time in this role, I immersed myself in exploratory data analysis 
 
 By the end of my journey at the company, which lasted 1 year and 1 month, I had strengthened my technical expertise, improved production processes, and contributed to the company’s success through a combination of innovation, critical thinking, and a commitment to solving challenging problems.
 
-<h3>The third Data Science Job</h3>
+<h3>My time at Agroknow</h3>
 
 I began my next chapter as a Data Scientist in 2023, where I shifted my focus to solving challenges in forecasting, classification, and large-scale data analysis. My role was pivotal in driving innovation and delivering impactful solutions for real-world problems.
 
@@ -59,13 +59,12 @@ Throughout my time in this role, I regularly delivered product demos and facilit
 
 This experience allowed me to further refine my skills in time series forecasting, natural language processing, and classification modeling while staying at the forefront of modern tools and methodologies. I worked on scalable, real-world solutions that had a measurable impact, solidifying my role as a results-driven and innovative Data Scientist.
 
-
 I love data. I am passionate about Data Science. I learn every day in this exciting, ever changing field.
-As I learn, I try to write blog posts to document my journey on [Medium](https://medium.com/@dimitris.effrosynidis) 
-and my personal [website](https://deffro.github.io/). The code for most of my projects is available on [GitHub](https://github.com/Deffro), where 
+As I learn, I try to write blog posts to document my journey on [Medium](https://medium.com/@dimitris.effrosynidis)
+and my personal [website](https://deffro.github.io/). The code for most of my projects is available on [GitHub](https://github.com/Deffro), where
 my [Data Science Portfolio](https://github.com/Deffro/Data-Science-Portfolio) is also located.
 
-At the beginning of my Data Science journey, I was competing in [Kaggle](https://www.kaggle.com/deffro). 
+At the beginning of my Data Science journey, I was competing in [Kaggle](https://www.kaggle.com/deffro).
 Because, how can you learn if you don't get your hands dirty?
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/dimitrios-effrosynidis/).
